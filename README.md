@@ -1,1 +1,2 @@
-# binary-search-tree
+# binary-search-in array
+
